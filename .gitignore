@@ -29,7 +29,6 @@ jspm_packages/
 web_modules/
 *.tsbuildinfo
 .npm
-package-lock.json
 .eslintcache
 .rpt2_cache/
 .rts2_cache_cjs/
