@@ -6,8 +6,7 @@
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
-    "deploy": "bash deploy.sh",
-    "baiduPush": "node utils/baiduPush.js https://small-market.gitee.io && bash baiduPush.sh",
+    "baiduPush": "bash baiduPush.sh",
     "clean-dev": "vuepress dev docs --clean-cache"
   },
   "devDependencies": {
