@@ -6,10 +6,11 @@ import clientConfig4 from 'D:/Users/Gavin/Documents/javacode/vuepress2/Small-mar
 import clientConfig5 from 'D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/node_modules/_@vuepress_plugin-theme-data@2.0.0-beta.49@@vuepress/plugin-theme-data/lib/client/config.js'
 import clientConfig6 from 'D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/node_modules/_vuepress-plugin-comment2@2.0.0-beta.87@vuepress-plugin-comment2/lib/client/config.js'
 import clientConfig7 from 'D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/node_modules/_vuepress-plugin-copy-code2@2.0.0-beta.87@vuepress-plugin-copy-code2/lib/client/config.js'
-import clientConfig8 from 'D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/docs/.vuepress/.temp/md-enhance/config.js'
-import clientConfig9 from 'D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/node_modules/_vuepress-plugin-photo-swipe@2.0.0-beta.87@vuepress-plugin-photo-swipe/lib/client/config.js'
-import clientConfig10 from 'D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/docs/.vuepress/.temp/theme-hope/config.js'
-import clientConfig11 from 'D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/node_modules/_@vuepress_plugin-search@2.0.0-beta.49@@vuepress/plugin-search/lib/client/config.js'
+import clientConfig8 from 'D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/node_modules/_vuepress-plugin-copyright2@2.0.0-beta.87@vuepress-plugin-copyright2/lib/client/config.js'
+import clientConfig9 from 'D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/docs/.vuepress/.temp/md-enhance/config.js'
+import clientConfig10 from 'D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/node_modules/_vuepress-plugin-photo-swipe@2.0.0-beta.87@vuepress-plugin-photo-swipe/lib/client/config.js'
+import clientConfig11 from 'D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/docs/.vuepress/.temp/theme-hope/config.js'
+import clientConfig12 from 'D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/node_modules/_@vuepress_plugin-search@2.0.0-beta.49@@vuepress/plugin-search/lib/client/config.js'
 
 export const clientConfigs = [
   clientConfig0,
@@ -24,4 +25,5 @@ export const clientConfigs = [
   clientConfig9,
   clientConfig10,
   clientConfig11,
+  clientConfig12,
 ]

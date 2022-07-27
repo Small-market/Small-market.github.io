@@ -17,3 +17,14 @@ tag:
 ### 标题 3
 
 这里是内容。
+
+``` java
+
+  /**
+   * 红字信息表十申请查询
+   */
+  @Test
+  void uploadHzxxSelect() throws Exception {
+    post(Urls.uploadHzxx, getFileParam("/uploadHzxx/SelectParam.json"));
+  }
+```

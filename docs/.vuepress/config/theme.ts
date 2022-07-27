@@ -84,17 +84,17 @@ export default hopeTheme({
       /**
        * Using Giscus
        */
-      provider: "Giscus",
-      repo: "vuepress-theme-hope/giscus-discussions",
-      repoId: "R_kgDOG_Pt2A",
-      category: "Announcements",
-      categoryId: "DIC_kwDOG_Pt2M4COD69",
+      // provider: "Giscus",
+      // repo: "vuepress-theme-hope/giscus-discussions",
+      // repoId: "R_kgDOG_Pt2A",
+      // category: "Announcements",
+      // categoryId: "DIC_kwDOG_Pt2M4COD69",
 
       /**
        * Using Twikoo
        */
-      // provider: "Twikoo",
-      // envId: "https://twikoo.ccknbc.vercel.app",
+      provider: "Twikoo",
+      envId: "https://small-market.vercel.app",
 
       /**
        * Using Waline
@@ -102,7 +102,13 @@ export default hopeTheme({
       // provider: "Waline",
       // serverURL: "https://vuepress-theme-hope-comment.vercel.app",
     },
-
+    //版权信息插件配置
+    copyright: {
+      author: "Gavin",
+      triggerWords: 1,
+      global: true,
+      license: "https://github.com/Small-market/Small-market.github.io/LICENSE"
+    },
     mdEnhance: {
       enableAll: true,
       presentation: {
