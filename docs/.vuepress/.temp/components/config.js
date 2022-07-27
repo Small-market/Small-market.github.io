@@ -1,9 +1,9 @@
-import { useStyleTag } from "D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/node_modules/vuepress-plugin-components/lib/client/composables";
+import { useStyleTag } from "D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/node_modules/_vuepress-plugin-components@2.0.0-beta.87@vuepress-plugin-components/lib/client/composables";
 import { h } from "vue";
 import { defineClientConfig } from "@vuepress/client";
-import Badge from "D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/node_modules/vuepress-plugin-components/lib/client/components/Badge";
-import FontIcon from "D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/node_modules/vuepress-plugin-components/lib/client/components/FontIcon";
-import BackToTop from "D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/node_modules/vuepress-plugin-components/lib/client/components/BackToTop";
+import Badge from "D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/node_modules/_vuepress-plugin-components@2.0.0-beta.87@vuepress-plugin-components/lib/client/components/Badge";
+import FontIcon from "D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/node_modules/_vuepress-plugin-components@2.0.0-beta.87@vuepress-plugin-components/lib/client/components/FontIcon";
+import BackToTop from "D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/node_modules/_vuepress-plugin-components@2.0.0-beta.87@vuepress-plugin-components/lib/client/components/BackToTop";
 
 
 export default defineClientConfig({

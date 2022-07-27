@@ -5,6 +5,12 @@ export const pagesData = {
   "v-8daa1a0e": () => import(/* webpackChunkName: "v-8daa1a0e" */"D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/docs/.vuepress/.temp/pages/index.html.js").then(({ data }) => data),
   // path: /slide.html
   "v-0e503981": () => import(/* webpackChunkName: "v-0e503981" */"D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/docs/.vuepress/.temp/pages/slide.html.js").then(({ data }) => data),
+  // path: /en/home.html
+  "v-7c2196ed": () => import(/* webpackChunkName: "v-7c2196ed" */"D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/docs/.vuepress/.temp/pages/en/home.html.js").then(({ data }) => data),
+  // path: /en/
+  "v-2d0a870d": () => import(/* webpackChunkName: "v-2d0a870d" */"D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/docs/.vuepress/.temp/pages/en/index.html.js").then(({ data }) => data),
+  // path: /en/slide.html
+  "v-50a4c495": () => import(/* webpackChunkName: "v-50a4c495" */"D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/docs/.vuepress/.temp/pages/en/slide.html.js").then(({ data }) => data),
   // path: /guide/disable.html
   "v-4c863446": () => import(/* webpackChunkName: "v-4c863446" */"D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/docs/.vuepress/.temp/pages/guide/disable.html.js").then(({ data }) => data),
   // path: /guide/encrypt.html
@@ -59,6 +65,16 @@ export const pagesData = {
   "v-03d57386": () => import(/* webpackChunkName: "v-03d57386" */"D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/docs/.vuepress/.temp/pages/category/使用指南/index.html.js").then(({ data }) => data),
   // path: /tag/%E7%A6%81%E7%94%A8/
   "v-83e1f92e": () => import(/* webpackChunkName: "v-83e1f92e" */"D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/docs/.vuepress/.temp/pages/tag/禁用/index.html.js").then(({ data }) => data),
+  // path: /en/article/
+  "v-506407f4": () => import(/* webpackChunkName: "v-506407f4" */"D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/docs/.vuepress/.temp/pages/en/article/index.html.js").then(({ data }) => data),
+  // path: /en/encrypted/
+  "v-8f7c4c90": () => import(/* webpackChunkName: "v-8f7c4c90" */"D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/docs/.vuepress/.temp/pages/en/encrypted/index.html.js").then(({ data }) => data),
+  // path: /en/slide/
+  "v-be4a7c2a": () => import(/* webpackChunkName: "v-be4a7c2a" */"D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/docs/.vuepress/.temp/pages/en/slide/index.html.js").then(({ data }) => data),
+  // path: /en/star/
+  "v-37a8c5a0": () => import(/* webpackChunkName: "v-37a8c5a0" */"D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/docs/.vuepress/.temp/pages/en/star/index.html.js").then(({ data }) => data),
+  // path: /en/timeline/
+  "v-0379cba1": () => import(/* webpackChunkName: "v-0379cba1" */"D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/docs/.vuepress/.temp/pages/en/timeline/index.html.js").then(({ data }) => data),
   // path: /category/categorya/
   "v-3e5b7b84": () => import(/* webpackChunkName: "v-3e5b7b84" */"D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/docs/.vuepress/.temp/pages/category/categorya/index.html.js").then(({ data }) => data),
   // path: /tag/%E6%96%87%E7%AB%A0%E5%8A%A0%E5%AF%86/
@@ -67,6 +83,8 @@ export const pagesData = {
   "v-3e5b7ba3": () => import(/* webpackChunkName: "v-3e5b7ba3" */"D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/docs/.vuepress/.temp/pages/category/categoryb/index.html.js").then(({ data }) => data),
   // path: /tag/markdown/
   "v-484552dc": () => import(/* webpackChunkName: "v-484552dc" */"D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/docs/.vuepress/.temp/pages/tag/markdown/index.html.js").then(({ data }) => data),
+  // path: /en/category/
+  "v-5decfa84": () => import(/* webpackChunkName: "v-5decfa84" */"D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/docs/.vuepress/.temp/pages/en/category/index.html.js").then(({ data }) => data),
   // path: /tag/%E9%A1%B5%E9%9D%A2%E9%85%8D%E7%BD%AE/
   "v-a378ad66": () => import(/* webpackChunkName: "v-a378ad66" */"D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/docs/.vuepress/.temp/pages/tag/页面配置/index.html.js").then(({ data }) => data),
   // path: /tag/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/
@@ -75,4 +93,6 @@ export const pagesData = {
   "v-06bbb262": () => import(/* webpackChunkName: "v-06bbb262" */"D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/docs/.vuepress/.temp/pages/tag/tag-a/index.html.js").then(({ data }) => data),
   // path: /tag/tag-b/
   "v-06bbb224": () => import(/* webpackChunkName: "v-06bbb224" */"D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/docs/.vuepress/.temp/pages/tag/tag-b/index.html.js").then(({ data }) => data),
+  // path: /en/tag/
+  "v-075c6c62": () => import(/* webpackChunkName: "v-075c6c62" */"D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/docs/.vuepress/.temp/pages/en/tag/index.html.js").then(({ data }) => data),
 }

@@ -1,1 +1,1 @@
-export const sidebarData = {"/guide/":["page.md","markdown.md","disable.md","encrypt.md"]}
+export const sidebarData = {"/en/":["README.md","slide.md","home.md"],"/guide/":["page.md","markdown.md","disable.md","encrypt.md"]}
