@@ -7,7 +7,7 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "博客主页",
+    "title": "主页",
     "headers": [],
     "path": "/",
     "pathLocale": "/",
@@ -21,86 +21,37 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "文章 10",
-    "headers": [
-      {
-        "level": 2,
-        "title": "标题 2",
-        "slug": "标题-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "标题 3",
-            "slug": "标题-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/posts/article10.html",
+    "title": "项目主页",
+    "headers": [],
+    "path": "/en/home.html",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
+    "title": "博客主页",
+    "headers": [],
+    "path": "/en/",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
+    "title": "幻灯片页",
+    "headers": [],
+    "path": "/en/slide.html",
+    "pathLocale": "/en/",
+    "extraFields": []
+  },
+  {
+    "title": "数据库",
+    "headers": [],
+    "path": "/database/",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "文章 11",
-    "headers": [
-      {
-        "level": 2,
-        "title": "标题 2",
-        "slug": "标题-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "标题 3",
-            "slug": "标题-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/posts/article11.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "文章 12",
-    "headers": [
-      {
-        "level": 2,
-        "title": "标题 2",
-        "slug": "标题-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "标题 3",
-            "slug": "标题-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/posts/article12.html",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "文章 9",
-    "headers": [
-      {
-        "level": 2,
-        "title": "标题 2",
-        "slug": "标题-2",
-        "children": [
-          {
-            "level": 3,
-            "title": "标题 3",
-            "slug": "标题-3",
-            "children": []
-          }
-        ]
-      }
-    ],
-    "path": "/posts/article9.html",
+    "title": "",
+    "headers": [],
+    "path": "/Java/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -204,24 +155,101 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "项目主页",
+    "title": "",
     "headers": [],
-    "path": "/en/home.html",
-    "pathLocale": "/en/",
+    "path": "/resource/",
+    "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "博客主页",
-    "headers": [],
-    "path": "/en/",
-    "pathLocale": "/en/",
+    "title": "文章 10",
+    "headers": [
+      {
+        "level": 2,
+        "title": "标题 2",
+        "slug": "标题-2",
+        "children": [
+          {
+            "level": 3,
+            "title": "标题 3",
+            "slug": "标题-3",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/posts/article10.html",
+    "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "幻灯片页",
+    "title": "文章 11",
+    "headers": [
+      {
+        "level": 2,
+        "title": "标题 2",
+        "slug": "标题-2",
+        "children": [
+          {
+            "level": 3,
+            "title": "标题 3",
+            "slug": "标题-3",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/posts/article11.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "文章 12",
+    "headers": [
+      {
+        "level": 2,
+        "title": "标题 2",
+        "slug": "标题-2",
+        "children": [
+          {
+            "level": 3,
+            "title": "标题 3",
+            "slug": "标题-3",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/posts/article12.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "文章 9",
+    "headers": [
+      {
+        "level": 2,
+        "title": "标题 2",
+        "slug": "标题-2",
+        "children": [
+          {
+            "level": 3,
+            "title": "标题 3",
+            "slug": "标题-3",
+            "children": []
+          }
+        ]
+      }
+    ],
+    "path": "/posts/article9.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
     "headers": [],
-    "path": "/en/slide.html",
-    "pathLocale": "/en/",
+    "path": "/Java/base/01.html",
+    "pathLocale": "/",
     "extraFields": []
   },
   {
@@ -449,16 +477,16 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "CategoryA 分类",
+    "title": "使用指南 分类",
     "headers": [],
-    "path": "/category/categorya/",
+    "path": "/category/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/",
     "pathLocale": "/",
     "extraFields": []
   },
   {
-    "title": "tag A 标签",
+    "title": "禁用 标签",
     "headers": [],
-    "path": "/tag/tag-a/",
+    "path": "/tag/%E7%A6%81%E7%94%A8/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -498,37 +526,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "CategoryB 分类",
+    "title": "CategoryA 分类",
     "headers": [],
-    "path": "/category/categoryb/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "tag B 标签",
-    "headers": [],
-    "path": "/tag/tag-b/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "使用指南 分类",
-    "headers": [],
-    "path": "/category/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "禁用 标签",
-    "headers": [],
-    "path": "/tag/%E7%A6%81%E7%94%A8/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
-    "title": "Category",
-    "headers": [],
-    "path": "/en/category/",
+    "path": "/category/categorya/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -540,9 +540,23 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "CategoryB 分类",
+    "headers": [],
+    "path": "/category/categoryb/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "Markdown 标签",
     "headers": [],
     "path": "/tag/markdown/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "Category",
+    "headers": [],
+    "path": "/en/category/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -557,6 +571,20 @@ export const searchIndex = [
     "title": "使用指南 标签",
     "headers": [],
     "path": "/tag/%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "tag A 标签",
+    "headers": [],
+    "path": "/tag/tag-a/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "tag B 标签",
+    "headers": [],
+    "path": "/tag/tag-b/",
     "pathLocale": "/",
     "extraFields": []
   },

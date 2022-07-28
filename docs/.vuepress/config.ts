@@ -1,4 +1,7 @@
 import { searchPlugin } from "@vuepress/plugin-search";
+import { dynamicTitlePlugin } from "@vuepress-denaro/vuepress-plugin-dynamic-title";
+import { cursorEffects } from "@anyfork/vuepress-plugin-cursor-effects-next";
+
 import { defineUserConfig } from "vuepress";
 import head from "./config/head";
 import theme from "./config/theme";
@@ -17,6 +20,7 @@ export default defineUserConfig({
   },
   // 插件
   plugins: [
+    // 搜索插件
     searchPlugin({
       // 你的选项
       locales: {
@@ -27,6 +31,18 @@ export default defineUserConfig({
           placeholder: 'Search',
         },
       },
+    }),
+    dynamicTitlePlugin({
+      showIcon: '/favicon.ico',
+      showText: 'ヾ(≧▽≦*)o欢迎回来！',
+      hideIcon: '/favicon.ico',
+      hideText: 'ಥ_ಥ不要走呀！',
+      recoverTime: 2000,   //  持续时间
+    }),
+    cursorEffects({
+      size: 2, // 粒子的大小，默认值：2
+      shape: 'star', // 粒子的形状，star：星形，circle：圆形。默认值：star
+      zIndex: 999999999, // 页面的索引属性，默认值：99999999，
     }),
   ],
   title: "Gavin blog",
