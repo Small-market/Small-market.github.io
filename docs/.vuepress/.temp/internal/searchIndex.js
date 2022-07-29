@@ -21,6 +21,27 @@ export const searchIndex = [
     "extraFields": []
   },
   {
+    "title": "数据库",
+    "headers": [],
+    "path": "/about/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "数据库",
+    "headers": [],
+    "path": "/database/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [],
+    "path": "/front/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
     "title": "项目主页",
     "headers": [],
     "path": "/en/home.html",
@@ -42,16 +63,9 @@ export const searchIndex = [
     "extraFields": []
   },
   {
-    "title": "数据库",
-    "headers": [],
-    "path": "/database/",
-    "pathLocale": "/",
-    "extraFields": []
-  },
-  {
     "title": "",
     "headers": [],
-    "path": "/Java/",
+    "path": "/framework/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -157,7 +171,14 @@ export const searchIndex = [
   {
     "title": "",
     "headers": [],
-    "path": "/resource/",
+    "path": "/Java/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [],
+    "path": "/more/",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -248,7 +269,21 @@ export const searchIndex = [
   {
     "title": "",
     "headers": [],
+    "path": "/resource/",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [],
     "path": "/Java/base/01.html",
+    "pathLocale": "/",
+    "extraFields": []
+  },
+  {
+    "title": "",
+    "headers": [],
+    "path": "/Java/spring/01.html",
     "pathLocale": "/",
     "extraFields": []
   },
@@ -596,16 +631,3 @@ export const searchIndex = [
     "extraFields": []
   }
 ]
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updateSearchIndex) {
-    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ searchIndex }) => {
-    __VUE_HMR_RUNTIME__.updateSearchIndex(searchIndex)
-  })
-}

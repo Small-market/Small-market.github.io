@@ -11,8 +11,6 @@ import clientConfig9 from 'D:/Users/Gavin/Documents/javacode/vuepress2/Small-mar
 import clientConfig10 from 'D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/node_modules/_vuepress-plugin-photo-swipe@2.0.0-beta.87@vuepress-plugin-photo-swipe/lib/client/config.js'
 import clientConfig11 from 'D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/docs/.vuepress/.temp/theme-hope/config.js'
 import clientConfig12 from 'D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/node_modules/_@vuepress_plugin-search@2.0.0-beta.49@@vuepress/plugin-search/lib/client/config.js'
-import clientConfig13 from 'D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/node_modules/_@vuepress-denaro_vuepress-plugin-dynamic-title@1.0.2-alpha.0@@vuepress-denaro/vuepress-plugin-dynamic-title/lib/client/config.js'
-import clientConfig14 from 'D:/Users/Gavin/Documents/javacode/vuepress2/Small-market.github.io/node_modules/_@anyfork_vuepress-plugin-cursor-effects-next@0.1.0-beta.0@@anyfork/vuepress-plugin-cursor-effects-next/lib/client/config.js'
 
 export const clientConfigs = [
   clientConfig0,
@@ -28,6 +26,4 @@ export const clientConfigs = [
   clientConfig10,
   clientConfig11,
   clientConfig12,
-  clientConfig13,
-  clientConfig14,
 ]

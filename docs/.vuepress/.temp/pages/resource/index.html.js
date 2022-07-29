@@ -1,14 +1,1 @@
-export const data = JSON.parse("{\"key\":\"v-ef7dd9f0\",\"path\":\"/resource/\",\"title\":\"\",\"lang\":\"zh-CN\",\"frontmatter\":{\"summary\":\"3\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"http://www.gavinwish.xyz/resource/\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"Gavin blog\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"og:locale:alternate\",\"content\":\"en-US\"}]]},\"excerpt\":\"\",\"headers\":[],\"readingTime\":{\"minutes\":0.82,\"words\":245},\"copyright\":\"著作权归Gavin所有\\n基于https://github.com/Small-market/Small-market.github.io/LICENSE协议\\n原文链接：http://www.gavinwish.xyz/resource/\",\"filePathRelative\":\"resource/README.md\"}")
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}
+export const data = JSON.parse("{\"key\":\"v-ef7dd9f0\",\"path\":\"/resource/\",\"title\":\"\",\"lang\":\"zh-CN\",\"frontmatter\":{\"summary\":\"\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"http://www.gavinwish.xyz/resource/\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"Gavin blog\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2022-07-28T00:28:58.000Z\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"og:locale:alternate\",\"content\":\"en-US\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2022-07-28T00:28:58.000Z\"}]]},\"excerpt\":\"\",\"headers\":[],\"git\":{\"createdTime\":1658968138000,\"updatedTime\":1658968138000,\"contributors\":[{\"name\":\"gavinlf\",\"email\":\"gavinlf@email.com\",\"commits\":1}]},\"readingTime\":{\"minutes\":0,\"words\":0},\"copyright\":\"著作权归Gavin所有\\n基于https://github.com/Small-market/Small-market.github.io/LICENSE协议\\n原文链接：http://www.gavinwish.xyz/resource/\",\"filePathRelative\":\"resource/README.md\",\"localizedDate\":\"2022年7月28日\"}")
